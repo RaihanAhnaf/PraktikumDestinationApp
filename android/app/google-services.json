@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543444681995",
+    "project_id": "destination-ea6aa",
+    "storage_bucket": "destination-ea6aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543444681995:android:6b8406808351411ff74e0e",
+        "android_client_info": {
+          "package_name": "com.example.destination_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543444681995-fl0o98j3jdavbiheg2j4rft1jh1g7qil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_zRJsxkWUAqCY1U_eudszqzR5geXtrVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543444681995-fl0o98j3jdavbiheg2j4rft1jh1g7qil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
